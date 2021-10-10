@@ -52,8 +52,28 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "&quot;/Volumes/CODETASTIC/isadora/IsadoraSDK Code/Grapher/Projects/Windows/x64/Release/Grapher.dll&quot;"
+            argument = "-sfv"
             isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "&quot;/Volumes/CODETASTIC/isadora/Isadora/Windows/Debug/isadora.exe&quot;"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "&quot;/Volumes/CODETASTIC/sandbox-third-party/NDI_SDK_v4/lib/Windows/Processing.NDI.Lib.UWP.x64.dll&quot;"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "&quot;/Volumes/CODETASTIC/sandbox-third-party/wordpad.exe&quot;"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "&quot;/Volumes/CODETASTIC/sandbox-third-party/VAST/Bin/x64/Release/VAST.Common.Native64.dll&quot;"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "&quot;/Volumes/CODETASTIC/isadora/IsadoraSDK Code/Grapher/Projects/Windows/x64/Release/Grapher.dll&quot;"
+            isEnabled = "NO">
          </CommandLineArgument>
       </CommandLineArguments>
    </LaunchAction>
